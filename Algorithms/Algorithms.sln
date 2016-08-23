@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{6914D42C-478B-42E6-8D8A-13464E53460D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{17A2B009-5DA9-4CFF-A583-211E65FF5113}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortRec", "BubbleSort\BubbleSortRec.csproj", "{17A2B009-5DA9-4CFF-A583-211E65FF5113}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortLoops", "BubbleSortLoops\BubbleSortLoops.csproj", "{81C0AD73-9562-43B0-B86C-57D67F83ABFD}"
 EndProject

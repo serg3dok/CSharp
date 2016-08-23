@@ -25,7 +25,6 @@ namespace BubbleSort
 
             for (int i = 0; i < arr.Length; i++)
             {
-                arr[i] = r.Next(0, 1000);
                 Console.Write(arr[i] + " ");
             }
             Console.ReadKey();
