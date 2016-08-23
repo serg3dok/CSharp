@@ -1,0 +1,9 @@
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\obj\Debug\WinCalc.csprojResolveAssemblyReference.cache
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.Cache
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\WinCalc\WinCalc\obj\Debug\WinCalc.Form1.resources

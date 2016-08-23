@@ -1,0 +1,6 @@
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\PathWorks\bin\Debug\PathWorks.exe.config
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\PathWorks\bin\Debug\PathWorks.exe
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\PathWorks\bin\Debug\PathWorks.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\PathWorks\obj\Debug\PathWorks.csprojResolveAssemblyReference.cache
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\PathWorks\obj\Debug\PathWorks.exe
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\PathWorks\obj\Debug\PathWorks.pdb

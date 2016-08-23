@@ -1,0 +1,12 @@
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerVersionGenerator.exe.config
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerVersionGenerator.exe
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerVersionGenerator.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerVersionGenerator.exe
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerVersionGenerator.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerVersionGenerator.csprojResolveAssemblyReference.cache
+C:\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerVersionGenerator.exe.config
+C:\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerVersionGenerator.exe
+C:\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerVersionGenerator.pdb
+C:\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerVersionGenerator.csprojResolveAssemblyReference.cache
+C:\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerVersionGenerator.exe
+C:\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerVersionGenerator.pdb

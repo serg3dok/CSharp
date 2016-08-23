@@ -1,0 +1,9 @@
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\bin\Debug\WinCalc2.exe.config
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\bin\Debug\WinCalc2.exe
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\bin\Debug\WinCalc2.pdb
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\obj\Debug\WinCalc2.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\obj\Debug\WinCalc2.Form1.resources
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\obj\Debug\WinCalc2.Properties.Resources.resources
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\obj\Debug\WinCalc2.csproj.GenerateResource.Cache
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\obj\Debug\WinCalc2.exe
+D:\GoogleDrive\CSharp\WinCalc2\WinCalc2\obj\Debug\WinCalc2.pdb

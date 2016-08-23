@@ -1,0 +1,10 @@
+C:\Users\sergeyo\Serg Drive\CSharp\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\sergeyo\Serg Drive\CSharp\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\sergeyo\Serg Drive\CSharp\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\sergeyo\Serg Drive\CSharp\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\sergeyo\Serg Drive\CSharp\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\sergeyo\Google Drive\CSharp\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\sergeyo\Google Drive\CSharp\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\sergeyo\Google Drive\CSharp\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\sergeyo\Google Drive\CSharp\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache

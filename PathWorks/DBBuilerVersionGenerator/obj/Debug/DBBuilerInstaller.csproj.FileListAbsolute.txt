@@ -1,0 +1,5 @@
+C:\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerInstaller.exe.config
+C:\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerInstaller.exe
+C:\PathWorks\DBBuilerVersionGenerator\bin\Debug\DBBuilerInstaller.pdb
+C:\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerInstaller.exe
+C:\PathWorks\DBBuilerVersionGenerator\obj\Debug\DBBuilerInstaller.pdb

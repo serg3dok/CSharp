@@ -1,0 +1,6 @@
+C:\Users\sergeyo\Serg Drive\CSharp\ZipArchivator\ZipArchivator\bin\Debug\ZipArchivator.exe.config
+C:\Users\sergeyo\Serg Drive\CSharp\ZipArchivator\ZipArchivator\obj\Debug\ZipArchivator.csprojResolveAssemblyReference.cache
+C:\Users\sergeyo\Serg Drive\CSharp\ZipArchivator\ZipArchivator\bin\Debug\ZipArchivator.exe
+C:\Users\sergeyo\Serg Drive\CSharp\ZipArchivator\ZipArchivator\bin\Debug\ZipArchivator.pdb
+C:\Users\sergeyo\Serg Drive\CSharp\ZipArchivator\ZipArchivator\obj\Debug\ZipArchivator.exe
+C:\Users\sergeyo\Serg Drive\CSharp\ZipArchivator\ZipArchivator\obj\Debug\ZipArchivator.pdb
