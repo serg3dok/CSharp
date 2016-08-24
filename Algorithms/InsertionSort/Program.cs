@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SelectionSort
+namespace InsertionSort
 {
     class Program
     {
@@ -37,19 +36,33 @@ namespace SelectionSort
 
         public static int[] sort(int[] arr)
         {
-
-            for (int i = 0; i < arr.Length; i++)
+            int n = arr.Length;
+            for (int i = 0; i < n; i++)
             {
-                int min = arr[i];
-                for (int j = i; j < arr.Length; j++)
+                for (int j = i+1; j < n; j++)
                 {
-                    if (min > arr[j])
+                    int currentJ = j;
+
+                    bool swaped = true;
+                    while (j > 0 && swaped)
                     {
-                        min = arr[j];
+                        if (arr[j] < arr[j - 1])
+                        {
+                            int tmp = arr[j];
+                            arr[j] = arr[j - 1];
+                            arr[j - 1] = tmp;
+                        }
+                        else
+                        {
+                            swaped = false;
+                        }
+
+                        j--;
                     }
-                    
+
+                    j = currentJ;
+
                 }
-                arr[i] = min;
             }
 
             return arr;
