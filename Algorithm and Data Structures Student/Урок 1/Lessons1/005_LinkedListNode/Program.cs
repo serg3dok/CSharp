@@ -60,7 +60,8 @@ namespace LinkedListNode
             Console.WriteLine(first.Value);
             Console.WriteLine (first.Next.Value);
             Console.WriteLine(second.Value);
-            
+            Console.ReadKey();
+
         }
     }
 }

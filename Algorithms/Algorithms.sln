@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{6914D42C-478B-42E6-8D8A-13464E53460D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortRec", "BubbleSort\BubbleSortRec.csproj", "{17A2B009-5DA9-4CFF-A583-211E65FF5113}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortLoops", "BubbleSortLoops\BubbleSortLoops.csproj", "{81C0AD73-9562-43B0-B86C-57D67F83ABFD}"
@@ -15,16 +13,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortV2", "InsertionSortV2\InsertionSortV2.csproj", "{2DA9682A-F6C2-4D65-9A12-21D39C7795E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{9AD2B009-4A79-4C80-8FDB-40391F49905E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6914D42C-478B-42E6-8D8A-13464E53460D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6914D42C-478B-42E6-8D8A-13464E53460D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6914D42C-478B-42E6-8D8A-13464E53460D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6914D42C-478B-42E6-8D8A-13464E53460D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17A2B009-5DA9-4CFF-A583-211E65FF5113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17A2B009-5DA9-4CFF-A583-211E65FF5113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A2B009-5DA9-4CFF-A583-211E65FF5113}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -48,5 +44,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17A2B009-5DA9-4CFF-A583-211E65FF5113} = {9AD2B009-4A79-4C80-8FDB-40391F49905E}
+		{81C0AD73-9562-43B0-B86C-57D67F83ABFD} = {9AD2B009-4A79-4C80-8FDB-40391F49905E}
+		{B0CA3DB1-D521-4D61-BBD1-19400C300555} = {9AD2B009-4A79-4C80-8FDB-40391F49905E}
+		{C889EA4C-850E-4B75-8CB9-8ED7B948B967} = {9AD2B009-4A79-4C80-8FDB-40391F49905E}
+		{2DA9682A-F6C2-4D65-9A12-21D39C7795E1} = {9AD2B009-4A79-4C80-8FDB-40391F49905E}
 	EndGlobalSection
 EndGlobal

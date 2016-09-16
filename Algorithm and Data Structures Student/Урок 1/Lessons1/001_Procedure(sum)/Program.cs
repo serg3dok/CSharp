@@ -45,6 +45,7 @@ namespace Procedure
                     b++;
                 }
             }
+            Console.WriteLine("b = {0}", b);
         }
         
         static void Main(string[] args)

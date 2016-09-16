@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,8 +23,13 @@ namespace InsertionSort
 
             //Console.ReadKey();
 
-            arr = sort(arr);
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
 
+            arr = insertionSort(arr);
+
+            sw.Stop();
+            
 
 
             Console.WriteLine();
@@ -31,10 +37,14 @@ namespace InsertionSort
             {
                 Console.Write(arr[i] + " ");
             }
+
+            Console.WriteLine();
+            Console.WriteLine(sw.Elapsed.Milliseconds);
+
             Console.ReadKey();
         }
 
-        public static int[] sort(int[] arr)
+        public static int[] insertionSort(int[] arr)
         {
             int n = arr.Length;
             for (int i = 0; i < n; i++)
