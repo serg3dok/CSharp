@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{EBD7F3A2-1971-4072-A154-0E47AF5D4044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne2", "PlusOne2\PlusOne2.csproj", "{77374D25-7D0F-4041-BF8E-735B926E36A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "..\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{8A55BD20-B9B4-40ED-8168-D6D652AC5E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD7F3A2-1971-4072-A154-0E47AF5D4044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD7F3A2-1971-4072-A154-0E47AF5D4044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD7F3A2-1971-4072-A154-0E47AF5D4044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD7F3A2-1971-4072-A154-0E47AF5D4044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77374D25-7D0F-4041-BF8E-735B926E36A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77374D25-7D0F-4041-BF8E-735B926E36A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77374D25-7D0F-4041-BF8E-735B926E36A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77374D25-7D0F-4041-BF8E-735B926E36A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A55BD20-B9B4-40ED-8168-D6D652AC5E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A55BD20-B9B4-40ED-8168-D6D652AC5E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A55BD20-B9B4-40ED-8168-D6D652AC5E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A55BD20-B9B4-40ED-8168-D6D652AC5E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

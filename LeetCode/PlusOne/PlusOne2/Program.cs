@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace PlusOne2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] arr = { 9, 9, 9, 9 };
+            int[] arr = { 9, 2, 9, 9 };
 
             arr = plusOne(arr);
 
@@ -20,6 +22,7 @@ namespace PlusOne2
             }
             Console.ReadKey();
         }
+
         public static int[] plusOne(int[] digits)
         {
 
@@ -28,7 +31,7 @@ namespace PlusOne2
             {
                 digits[i]++;
                 // return array if current element less than 10
-                if (digits[i] > 10) return digits;
+                if (digits[i] < 10) return digits;
                 else
                 {
                     // assign to current element 0 instead of 10
