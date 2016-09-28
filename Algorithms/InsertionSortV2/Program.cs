@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,31 +11,36 @@ namespace InsertionSortV2
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
+            int[] arr = new int[1000];
 
             Random r = new Random();
 
             for (int i = 0; i < arr.Length; i++)
             {
                 arr[i] = r.Next(0, 100);
-                Console.Write(arr[i] + " ");
+                //Console.Write(arr[i] + " ");
             }
 
             //Console.ReadKey();
 
-            arr = sort(arr);
-
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
+            arr = insertionSort2(arr);
+            sw.Stop();
 
 
             Console.WriteLine();
             for (int i = 0; i < arr.Length; i++)
             {
-                Console.Write(arr[i] + " ");
+                //Console.Write(arr[i] + " ");
             }
+            Console.WriteLine();
+
+            Console.WriteLine(sw.ElapsedMilliseconds);
             Console.ReadKey();
         }
 
-        public static int[] sort(int[] arr)
+        public static int[] insertionSort2(int[] arr)
         {
             for (int i = 1; i < arr.Length; i++)
             {
