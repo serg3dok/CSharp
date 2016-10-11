@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestAbsoluteFilePath", "..\LongestAbsoluteFilePath\LongestAbsoluteFilePath.csproj", "{951BEF95-02D6-47A2-ABAE-A8227D7B6C56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{A399AD39-FFCF-465C-BE43-789EF45E8538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum2", "TwoSum2\TwoSum2.csproj", "{9A8D1E61-926A-4017-B049-3F37BF2C5E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{951BEF95-02D6-47A2-ABAE-A8227D7B6C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{951BEF95-02D6-47A2-ABAE-A8227D7B6C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{951BEF95-02D6-47A2-ABAE-A8227D7B6C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A399AD39-FFCF-465C-BE43-789EF45E8538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A399AD39-FFCF-465C-BE43-789EF45E8538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A399AD39-FFCF-465C-BE43-789EF45E8538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A399AD39-FFCF-465C-BE43-789EF45E8538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8D1E61-926A-4017-B049-3F37BF2C5E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8D1E61-926A-4017-B049-3F37BF2C5E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8D1E61-926A-4017-B049-3F37BF2C5E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8D1E61-926A-4017-B049-3F37BF2C5E95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
